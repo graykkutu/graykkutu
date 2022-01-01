@@ -1,5 +1,6 @@
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=graykkutu&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=graykkutu&show_icons=true&theme=prussian)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=graykkutu&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **graykkutu/graykkutu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
